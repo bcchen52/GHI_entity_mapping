@@ -1,0 +1,104 @@
+disease,year,country,state,regimen,drug,company,group1,group2,group3,drug_weight,regimen_weight,drug_impact
+LF,2017,Angola,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,3.478
+Schist,2017,Angola,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,5439.632
+Whipworm,2017,Bangladesh,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,934.225
+Whipworm,2017,Bangladesh,Whipworm,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,1168.296
+Hookworm,2017,Bangladesh,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,114.669
+Roundworm,2017,Bangladesh,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,99870.82
+Roundworm,2017,Bangladesh,Roundworm,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,111026.284
+LF,2017,Benin,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,6.804
+Schist,2017,Benin,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,16074.257
+Schist,2017,Brazil,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,166.354
+LF,2017,Burkina Faso,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,277.047
+Schist,2017,Burkina Faso,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,60547.432
+Schist,2017,Burundi,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,12451.111
+Schist,2017,Cambodia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,23597.699
+LF,2017,Cameroon,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,517.52
+Schist,2017,Cameroon,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,44899.398
+LF,2017,Chad,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,25.887
+Schist,2017,Chad,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,14884.663
+LF,2017,Comoros,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,22.028
+LF,2017,Comoros,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,15.292
+LF,2017,Congo,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,7.258
+Schist,2017,Congo,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,4143.958
+LF,2017,Cote d'Ivoire,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,9.719
+Schist,2017,Cote d'Ivoire,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,64351.643
+LF,2017,Democratic Republic of the Congo,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,49.661
+Schist,2017,Democratic Republic of the Congo,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,153311.537
+Whipworm,2017,Democratic Republic of the Congo,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,226.913
+Whipworm,2017,Democratic Republic of the Congo,Whipworm,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,306.924
+LF,2017,Dominican Republic,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,0.014
+LF,2017,Dominican Republic,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,0.058
+Schist,2017,Egypt,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,154254.428
+LF,2017,Eritrea,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.041
+Schist,2017,Eritrea,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,4620.908
+LF,2017,Ethiopia,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.043
+Schist,2017,Ethiopia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,151169.413
+LF,2017,Fiji,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,1.041
+LF,2017,Fiji,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,0.369
+LF,2017,Ghana,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.867
+Schist,2017,Ghana,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,3341.549
+LF,2017,Guinea,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,198.946
+Schist,2017,Guinea,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,8707.868
+LF,2017,Guinea-Bissau,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,133.122
+LF,2017,Guyana,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,53.163
+LF,2017,Guyana,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,170.207
+LF,2017,Haiti,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,72.224
+LF,2017,Haiti,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,735.819
+LF,2017,India,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,64.284
+LF,2017,Indonesia,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,939.733
+Schist,2017,Indonesia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,67.615
+LF,2017,Kenya,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.32
+Schist,2017,Kenya,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,16463.57
+LF,2017,Lao People's Democratic Republic,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.027
+Schist,2017,Lao People's Democratic Republic,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,3257.648
+LF,2017,Liberia,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,593.068
+Schist,2017,Liberia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1746.154
+Schist,2017,Madagascar,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,14759.443
+Schist,2017,Malawi,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,8597.684
+LF,2017,Malaysia,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,0.001
+LF,2017,Malaysia,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,0.0
+LF,2017,Mali,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,1140.92
+Schist,2017,Mali,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,19503.897
+Schist,2017,Mauritania,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,801.872
+Schist,2017,Mauritius,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2582.638
+LF,2017,Micronesia (Federated States of),LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,2.215
+LF,2017,Micronesia (Federated States of),LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,1.018
+Schist,2017,Morocco,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2579.234
+LF,2017,Mozambique,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,958.173
+Schist,2017,Mozambique,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2054.977
+LF,2017,Myanmar,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,205.901
+LF,2017,Nepal,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,354.983
+LF,2017,Nepal,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,55.804
+LF,2017,Niger,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,356.843
+Schist,2017,Niger,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,23222.092
+Schist,2017,Nigeria,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,223444.251
+LF,2017,Philippines,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,10.508
+Schist,2017,Philippines,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,19395.263
+Schist,2017,Rwanda,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,3827.698
+LF,2017,Senegal,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,77.013
+Schist,2017,Senegal,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,11138.759
+LF,2017,Sierra Leone,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,72.849
+Schist,2017,Sierra Leone,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,15429.9
+Schist,2017,Somalia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,9065.682
+LF,2017,South Sudan,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.138
+LF,2017,Sudan,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.536
+Schist,2017,Sudan,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2266.179
+LF,2017,Tanzania,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,108.716
+Schist,2017,Tanzania,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,47673.227
+LF,2017,Timor-Leste,LF,DEC+ALB,Diethylcarbamazine + Albendazole,Pfizer + GlaxoSmithKline,,,,1,0.5,342.41
+LF,2017,Timor-Leste,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,0.5,50.474
+Schist,2017,Togo,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,8998.32
+LF,2017,Uganda,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,19.523
+Schist,2017,Uganda,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,24279.975
+Whipworm,2017,Venezuela,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,162.281
+Whipworm,2017,Venezuela,Whipworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,292.159
+Hookworm,2017,Venezuela,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,1.249
+Hookworm,2017,Venezuela,Hookworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,0.136
+Roundworm,2017,Venezuela,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,855.909
+Roundworm,2017,Venezuela,Roundworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,516.543
+Schist,2017,Yemen,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,90276.153
+LF,2017,Zambia,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,11.492
+Schist,2017,Zambia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,6557.072
+LF,2017,Zimbabwe,LF,IVM+ALB,Ivermectin + Albendazole,Merck + GlaxoSmithKline,,,,1,1.0,0.0
+Schist,2017,Zimbabwe,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,7385.804
