@@ -1,0 +1,43 @@
+disease,year,country,state,regimen,drug,company,group1,group2,group3,drug_weight,regimen_weight,drug_impact
+Trachoma,2010,Afghanistan,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,315.645
+Trachoma,2010,Algeria,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,789.696
+Trachoma,2010,Australia,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,1.258
+Trachoma,2010,Benin,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,1877.793
+Trachoma,2010,Brazil,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.457
+Trachoma,2010,Burkina Faso,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,416.079
+Trachoma,2010,Burundi,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,29.944
+Trachoma,2010,Cameroon,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,123.042
+Trachoma,2010,Central African Republic,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,56.76
+Trachoma,2010,Chad,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,3350.373
+Trachoma,2010,Colombia,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,19.447
+Trachoma,2010,Democratic Republic of the Congo,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,117.704
+Trachoma,2010,Egypt,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,54.215
+Trachoma,2010,Eritrea,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,136.076
+Trachoma,2010,Ethiopia,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,55757.935
+Trachoma,2010,Fiji,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,1.99
+Trachoma,2010,Guatemala,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.259
+Trachoma,2010,Guinea,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,3160.06
+Trachoma,2010,Guinea-Bissau,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,84.191
+Trachoma,2010,India,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,34341.426
+Trachoma,2010,Kenya,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,33.545
+Trachoma,2010,Kiribati,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,2.944
+Trachoma,2010,Malawi,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,200.976
+Trachoma,2010,Mali,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,483.714
+Trachoma,2010,Mauritania,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,25.516
+Trachoma,2010,Mozambique,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,85.238
+Trachoma,2010,Nauru,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.011
+Trachoma,2010,Niger,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,1331.6
+Trachoma,2010,Nigeria,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,5924.681
+Trachoma,2010,Pakistan,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,21701.013
+Trachoma,2010,Papua New Guinea,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,155.669
+Trachoma,2010,Peru,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.427
+Trachoma,2010,Senegal,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.926
+Trachoma,2010,Solomon Islands,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,5.006
+Trachoma,2010,South Sudan,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.814
+Trachoma,2010,Sudan,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,2.091
+Trachoma,2010,Uganda,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,1.848
+Trachoma,2010,Vanuatu,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.37
+Trachoma,2010,Viet Nam,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,6958.758
+Trachoma,2010,Yemen,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,40.11
+Trachoma,2010,Zambia,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,0.73
+Trachoma,2010,Zimbabwe,Trachoma,AZM,Azithromycin,Pfizer,,,,1,1,144.171

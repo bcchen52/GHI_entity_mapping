@@ -1,0 +1,151 @@
+disease,year,country,state,regimen,drug,company,group1,group2,group3,drug_weight,regimen_weight,drug_impact
+LF,2013,Angola,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,60.703
+Schist,2013,Angola,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,7764.177
+Onch,2013,Angola,Onch,IVM,Ivermectin,Merck,,,,1,1.0,1.453
+LF,2013,Bangladesh,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,5.13
+Whipworm,2013,Bangladesh,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,46.552
+Hookworm,2013,Bangladesh,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,231.859
+Roundworm,2013,Bangladesh,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,697.365
+LF,2013,Benin,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,8.021
+Schist,2013,Benin,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1755.637
+Onch,2013,Benin,Onch,IVM,Ivermectin,Merck,,,,1,1.0,0.016
+Schist,2013,Botswana,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,895.59
+Schist,2013,Brazil,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,53847.422
+LF,2013,Burkina Faso,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,95.485
+Schist,2013,Burkina Faso,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,88217.199
+Schist,2013,Burundi,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,5285.965
+Onch,2013,Burundi,Onch,IVM,Ivermectin,Merck,,,,1,1.0,13.48
+Schist,2013,Cambodia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,143241.38
+LF,2013,Cameroon,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,133.228
+Schist,2013,Cameroon,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,4368.867
+Whipworm,2013,Cameroon,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,117.463
+Whipworm,2013,Cameroon,Whipworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,160.905
+Hookworm,2013,Cameroon,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,712.728
+Onch,2013,Cameroon,Onch,IVM,Ivermectin,Merck,,,,1,1.0,183.763
+LF,2013,Central African Republic,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,67.059
+Schist,2013,Central African Republic,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,309.106
+Onch,2013,Central African Republic,Onch,IVM,Ivermectin,Merck,,,,1,1.0,61.651
+LF,2013,Chad,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,27.121
+Schist,2013,Chad,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,8093.531
+Onch,2013,Chad,Onch,IVM,Ivermectin,Merck,,,,1,1.0,0.685
+Schist,2013,China,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,51601.642
+Whipworm,2013,Colombia,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,1.063
+Whipworm,2013,Colombia,Whipworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,1.62
+Hookworm,2013,Colombia,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,3.19
+Hookworm,2013,Colombia,Hookworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,0.628
+Roundworm,2013,Colombia,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,13.578
+Roundworm,2013,Colombia,Roundworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,10.563
+LF,2013,Comoros,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,4.225
+Whipworm,2013,Comoros,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,20.179
+Hookworm,2013,Comoros,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,50.875
+Roundworm,2013,Comoros,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,135.795
+LF,2013,Congo,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,1.874
+Schist,2013,Congo,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2750.285
+Onch,2013,Congo,Onch,IVM,Ivermectin,Merck,,,,1,1.0,0.202
+LF,2013,Cote d'Ivoire,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,24.994
+Schist,2013,Cote d'Ivoire,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,21156.223
+LF,2013,Democratic Republic of the Congo,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,11.999
+Schist,2013,Democratic Republic of the Congo,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,52604.723
+Onch,2013,Democratic Republic of the Congo,Onch,IVM,Ivermectin,Merck,,,,1,1.0,1714.577
+LF,2013,Dominican Republic,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,0.007
+LF,2013,Egypt,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,0.028
+Schist,2013,Egypt,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,436221.135
+LF,2013,Equatorial Guinea,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,3.37
+Schist,2013,Equatorial Guinea,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,163.608
+Onch,2013,Equatorial Guinea,Onch,IVM,Ivermectin,Merck,,,,1,1.0,0.222
+LF,2013,Eritrea,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,0.014
+Schist,2013,Eritrea,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1183.902
+LF,2013,Ethiopia,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,0.005
+Schist,2013,Ethiopia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,9786.984
+Onch,2013,Ethiopia,Onch,IVM,Ivermectin,Merck,,,,1,1.0,3.811
+LF,2013,Fiji,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,1.456
+Whipworm,2013,Fiji,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,0.019
+Hookworm,2013,Fiji,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,2.312
+Roundworm,2013,Fiji,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,1.794
+LF,2013,Gabon,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,0.917
+Schist,2013,Gabon,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,890.14
+Whipworm,2013,Gabon,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,68.998
+Whipworm,2013,Gabon,Whipworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,43.984
+Hookworm,2013,Gabon,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,59.325
+Roundworm,2013,Gabon,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,347.753
+Roundworm,2013,Gabon,Roundworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,512.965
+LF,2013,Gambia,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,2.817
+Schist,2013,Gambia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1641.05
+LF,2013,Ghana,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,21.016
+Schist,2013,Ghana,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,11504.576
+LF,2013,Guinea,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,16.511
+Schist,2013,Guinea,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,9513.819
+Schist,2013,Guinea-Bissau,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1209.236
+LF,2013,Guyana,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,5.907
+LF,2013,Haiti,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,136.227
+LF,2013,India,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,208.418
+Schist,2013,Indonesia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1103.56
+Schist,2013,Kenya,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,19922.677
+Schist,2013,Lao People's Democratic Republic,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2143.57
+Whipworm,2013,Lesotho,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,114.491
+Whipworm,2013,Lesotho,Whipworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,151.394
+Hookworm,2013,Lesotho,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,58.943
+Schist,2013,Liberia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,3548.367
+Whipworm,2013,Liberia,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,11.641
+Hookworm,2013,Liberia,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,935.275
+Roundworm,2013,Liberia,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,2143.92
+LF,2013,Madagascar,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,93.522
+Schist,2013,Madagascar,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,10223.862
+Whipworm,2013,Madagascar,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,283.588
+Whipworm,2013,Madagascar,Whipworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,364.854
+Hookworm,2013,Madagascar,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,92.585
+Roundworm,2013,Madagascar,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,3815.386
+Roundworm,2013,Madagascar,Roundworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,4487.982
+Schist,2013,Malawi,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,7652.638
+LF,2013,Malaysia,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,0.015
+Whipworm,2013,Malaysia,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,16.036
+Hookworm,2013,Malaysia,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,528.925
+Roundworm,2013,Malaysia,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,1418.742
+Schist,2013,Mali,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,6724.252
+Schist,2013,Mauritania,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,1932.339
+LF,2013,Micronesia (Federated States of),LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,0.184
+Schist,2013,Mozambique,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,6456.339
+Whipworm,2013,Mozambique,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,1055.971
+Hookworm,2013,Mozambique,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,2589.317
+Roundworm,2013,Mozambique,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,9779.45
+LF,2013,Myanmar,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,116.508
+Schist,2013,Namibia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,468.589
+LF,2013,Nepal,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,242.112
+Whipworm,2013,Nepal,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,50.43
+Hookworm,2013,Nepal,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,2349.461
+Roundworm,2013,Nepal,Roundworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,347.249
+LF,2013,Niger,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,23.83
+Schist,2013,Niger,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,632.023
+Schist,2013,Nigeria,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,95666.398
+LF,2013,Papua New Guinea,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,460.03
+Schist,2013,Philippines,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,69100.423
+Schist,2013,Rwanda,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2887.055
+LF,2013,Samoa,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,0.298
+Schist,2013,Sao Tome and Principe,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,50.207
+Schist,2013,Senegal,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,7431.43
+Whipworm,2013,Seychelles,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,1.865
+Whipworm,2013,Seychelles,Whipworm,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,0.5,2.466
+Hookworm,2013,Seychelles,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,1.0,1.538
+Schist,2013,Sierra Leone,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,986.61
+Schist,2013,Somalia,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,20959.254
+Schist,2013,South Africa,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,14278.9
+Whipworm,2013,South Africa,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,938.559
+Whipworm,2013,South Africa,Whipworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,1173.063
+Hookworm,2013,South Africa,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,1466.682
+Hookworm,2013,South Africa,Hookworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,1183.565
+Schist,2013,South Sudan,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,5117.985
+LF,2013,Sudan,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,0.017
+Schist,2013,Sudan,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,23346.177
+Schist,2013,Swaziland,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,259.481
+Whipworm,2013,Swaziland,Whipworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,26.622
+Whipworm,2013,Swaziland,Whipworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,45.747
+Hookworm,2013,Swaziland,Hookworm,ALB,Albendazole,GlaxoSmithKline,,,,1,0.5,197.139
+Hookworm,2013,Swaziland,Hookworm,MBD,Mebendazole,Johnson and Johnson,,,,1,0.5,159.085
+Schist,2013,Tanzania,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,34214.284
+LF,2013,Timor-Leste,LF,DEC+ALB,Diethylcarbamazine + Albendazole,GlaxoSmithKline + Pfizer Inc.,,,,1,1.0,105.891
+Schist,2013,Togo,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,3596.419
+Schist,2013,Uganda,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,12706.262
+Schist,2013,Venezuela,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,2612.955
+Schist,2013,Yemen,Schist,PZQ,Praziquantel,Bayer Healthcare,,,,1,1.0,15549.615
+LF,2013,Zambia,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,3.05
+LF,2013,Zimbabwe,LF,IVM+ALB,Albendazole + Ivermectin,Merck + GlaxoSmithKline,,,,1,1.0,0.001

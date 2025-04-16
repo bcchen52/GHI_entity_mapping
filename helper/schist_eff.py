@@ -4,18 +4,21 @@ region_count = {"EMR": [0, 0], "EUR": [0, 0], "AFR": [0, 0], "SEA": [0, 0], "AMR
 
 import pandas as pd
 import math
+import sys
+from pathlib import Path
+base_dir = Path(__file__).resolve().parent
 
 #fixes raw data by extraploating schist regional/country efficacy, then calculates impact
 
-def createCleanModel(input, output):
+def createCleanModel(output):
     model = []
 
-    df = pd.read_csv(input)
+    df = pd.read_csv(f"{base_dir}/eff_data/schist_eff.csv")
 
     #1 to 315
     count = 0
     for i in range(1, 315):
-        if "Praziquantel" in str(df.iloc[i,4]):
+        if "Praziquantel" == str(df.iloc[i,4]):
             name = str(df.iloc[i,3])
             #some inputs in the form of "COUNTRY "
             if name[len(name)-1] == " ":
@@ -85,4 +88,27 @@ def createCleanModel(input, output):
         
     df.to_csv(output, index=False)
 
-createCleanModel("eff_data/schist_eff.csv","raw_models/schist_model_2015.csv")
+def main():
+    years = [2010, 2013, 2015, 2017]
+    if len(sys.argv) < 2:
+        year = "ALL"
+    else:
+        year = int(sys.argv[1])
+
+    if year == "ALL":
+        for i in years:
+            createCleanModel(f"{base_dir}/../raw_models/NTD_model_{i}.csv")
+            print(f"{i} created.")
+        print("Complete")
+        return 0
+    elif year in years:
+        createCleanModel(f"{base_dir}/../raw_models/NTD_model_{year}.csv")
+        print(f"{year} created.")
+        print("Complete")
+        return 0
+    else:
+        print("Cannot find year.")
+    return 1
+
+if __name__ == "__main__":
+    main()

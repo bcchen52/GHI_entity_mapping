@@ -1,11 +1,21 @@
-GHI Entity Mapping
+# GHI Entity Mapping
 
-Given disease (Trachoma, Malaria, HepC, NTDs, TB, HIV) models with basic demographic information and treatment regimens and their impact, we create cleaned relational models and treatment regimen entity maps. 
+This repo is used to create cleaned relational models and entity maps for disease treatment regimens in different regions, given disease (Trachoma, Malaria, HepC, NTDs, TB, HIV) models with basic demographic, treatment regimen, and impact information. These models and entity maps are used for GHI's forecasting tool.
 
-Specifically, we run {disease}_map.py, which takes raw_models/{disease}_model_{year}.csv and creates cleaned_models/{disease}_cleaned_model_{year}.csv and finished_maps/{disease}_entity_map_{year}.csv. 
+To do this, we run {disease}_map.py, which takes raw_models/{disease}_model_{year}.csv and creates cleaned_models/{disease}_cleaned_model_{year}.csv and finished_maps/{disease}_entity_map_{year}.csv. We assume that each disease has a unique structure (columns, rows, etc) that is followed for each year's model.
 
 Sometimes, models are incomplete, and we manually need to patch that information, and those programs can be found in helper/. 
 
+## Files
+
+### cleaned_models/
+
+hold the disease regimen to country relational models
+
+### entity_maps/
+ hold the finish entity maps
+
+### helper/
 For example, original NTD models are missing Schist efficacy data, or, more specifically, PZQ efficacy data. Inside helper/, schist_eff.py opens helper/eff_data/schist_eff.csv, and parses through the available PZQ efficacy data by country, using the first instance of efficacy data for each country, and taking averages for each region. Then, the raw_models/NTD_model_{year}.csv files are opened and each country will be assigned their average efficacy, if available, else, will use their WHO regions average. Additionally, the impact score for PZQ in the original file is also missing, as that depends on missing data. Thus, we recalculate the impact score of PZQ using this new data.
 
 

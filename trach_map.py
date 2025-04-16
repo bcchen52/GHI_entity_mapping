@@ -1,7 +1,8 @@
 import pandas as pd
 import math
+import sys
 
-def createCleanModel(input, output):
+def createCleanModel(input, output, year):
     model = []
     #I want Country, Pop, DALY, Year, Strain, avail_drug_list, avail_drug_col_list, drug_mapping, prevalence, for each drug, efficacy, for each drug, impact, total impact.
     #impact = (DALYS * efficacy * coverage) / 1 - (efficacy*coverage)
@@ -21,7 +22,7 @@ def createCleanModel(input, output):
 
         daly = float("".join(str(df.iloc[i,5]).split(",")))
         temp_row['DALY'] = daly 
-        temp_row['Year'] = 2015
+        temp_row['Year'] = year
         #no strains? add col to maintain consistency w Malaria, not important 
         temp_row['strain'] = 'Trachoma'
 
@@ -61,7 +62,7 @@ def createCleanModel(input, output):
     cleaned_df = pd.DataFrame(model)
     cleaned_df.to_csv(output, index=False)
 
-def createEntityMap(input, output):
+def createEntityMap(input, output, year):
     model = []
     df = pd.read_csv(input)
 
@@ -74,7 +75,7 @@ def createEntityMap(input, output):
 
         if len(df.iloc[i, 5]) > 2:
             temp_row['disease'] = "Trachoma"
-            temp_row['year'] = 2015
+            temp_row['year'] = year
             temp_row['country'] = df.iloc[i,0]
 
             #prob not necessary, but for consistency w malaria why not
@@ -115,5 +116,30 @@ def createEntityMap(input, output):
     e_map = pd.DataFrame(model)
     e_map.to_csv(output, columns=['disease', 'year', 'country', 'state', 'regimen', 'drug', 'company', 'group1', 'group2', 'group3', 'drug_weight', 'regimen_weight', 'drug_impact'], index=False)
 
-createCleanModel("raw_models/trachoma_model_2015.csv", "cleaned_models/trachoma_cleaned_model_2015.csv")
-createEntityMap("cleaned_models/trachoma_cleaned_model_2015.csv", "finished_maps/trachoma_entity_map_2015.csv")
+def main():
+    years = [2010, 2013, 2015, 2017]
+    if len(sys.argv) < 2:
+        year = "ALL"
+    else:
+        year = int(sys.argv[1])
+
+    if year == "ALL":
+        for i in years:
+            createCleanModel(f"raw_models/trachoma_model_{i}.csv", f"cleaned_models/trachoma_cleaned_model_{i}.csv", i)
+            createEntityMap(f"cleaned_models/trachoma_cleaned_model_{i}.csv", f"entity_maps/trachoma_entity_map_{i}.csv", i)
+            print(f"{i} created.")
+        print("Complete")
+        return 0
+    elif year in years:
+        createCleanModel(f"raw_models/trachoma_model_{year}.csv", f"cleaned_models/trachoma_cleaned_model_{year}.csv", year)
+        createEntityMap(f"cleaned_models/trachoma_cleaned_model_{year}.csv", f"entity_maps/trachoma_entity_map_{year}.csv", year)
+        print(f"{year} created.")
+        print("Complete")
+        return 0
+    else:
+        print("Cannot find year.")
+    return 1
+
+if __name__ == "__main__":
+    main()
+        
